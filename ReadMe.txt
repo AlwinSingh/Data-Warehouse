@@ -1,8 +1,8 @@
 --Names: 
--- Teh Huan Xi Kester (P1922897)
--- Alwinderjit Singh Basant (P1935996)
--- Jason Lou (P1837902)
--- Wong En Ting Kelyn (P1935800)
+-- Teh Huan Xi Kester
+-- Alwinderjit Singh Basant
+-- Jason Lou
+-- Wong En Ting Kelyn
 
 -- Class: DIT/FT/2B/21
 
