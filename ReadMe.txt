@@ -3,7 +3,7 @@
 -- Alwinderjit Singh Basant (P1935996)
 -- Jason Lou (P1837902)
 -- Wong En Ting Kelyn (P1935800)
--- Team: Team OkBoomer
+
 -- Class: DIT/FT/2B/21
 
 1. Run the OLTP scripts in sequential order.
@@ -15,5 +15,3 @@
 respective queries to test them out in relation to our OLAP.
 
 4. DRD + Brief Explanation on OLAP inside .pptx file.
-
-Happy Marking!
