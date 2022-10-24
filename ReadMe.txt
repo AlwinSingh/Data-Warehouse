@@ -1,3 +1,6 @@
+# SQL Server Data warehouse
+This project aims to cleanse, normalise & standardise big data for processing in large environments and for use cases such as Statistical Data Analysis and Machine Learning.
+
 --Names: 
 -- Teh Huan Xi Kester
 -- Alwinderjit Singh Basant
